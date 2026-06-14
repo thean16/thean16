@@ -103,7 +103,9 @@ class ChhengSothean:
 
 <div align="center">
 
-![Dino Game](https://raw.githubusercontent.com/nicedoc/nicedoc/master/dino.gif)
+<img src="https://raw.githubusercontent.com/thean16/dino-game/main/dino.gif" width="600"/>
+
+[![Play Now](https://img.shields.io/badge/🦕_CLICK_TO_PLAY-DINO_GAME-58A6FF?style=for-the-badge&labelColor=1a1a2e)](https://thean16.github.io/dino-game)
 
 </div>
 
