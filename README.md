@@ -99,10 +99,8 @@ class ChhengSothean:
 
 
 
-# 👋 7h34n | CHHENG Sothean
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/thean16/thean16/main/WeChatCat.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/thean16/thean16/main/WeChatCat.gif" width="150" style="background:transparent"/>
 </div>
 
 
