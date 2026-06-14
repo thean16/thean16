@@ -97,15 +97,6 @@ class ChhengSothean:
 
 <br/>
 
-| 🏆 Project | 📝 Description | 🛠️ Stack |
-|-----------|---------------|---------|
-| 🇰🇭 **Cambodia Air Quality Pipeline** | Real-time monitoring for 5 cities — live Power BI dashboard | PySpark · SQL Server · Power BI |
-| 👕 **Clothes Store Management** | Full-stack store with JWT auth · 3 roles | Django · React · MySQL |
-| 🎬 **Java RMI Movie System** | Distributed movie service with AES-128 encryption | Java RMI · AES · Sockets |
-| 🤖 **CNN Image Classifier** | Cats vs Dogs — NumPy scratch → Keras 74% acc | Python · NumPy · Keras |
-| 🦠 **Covid19 EDA & ML** | Exploratory analysis + prediction models | Python · Pandas · Sklearn |
-
----
 
 
 
@@ -114,7 +105,7 @@ class ChhengSothean:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-aabbcc096096@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabbcc096096@gmail.com)
+[![Email](https://img.shields.io/badge/Email-thean160220@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabbcc096096@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-thean16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thean16)
 [![ITC](https://img.shields.io/badge/University-ITC_Cambodia-003087?style=for-the-badge&logo=google-scholar&logoColor=white)](https://itc.edu.kh)
 
