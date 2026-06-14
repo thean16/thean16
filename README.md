@@ -105,20 +105,8 @@ class ChhengSothean:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
 
 
-
-</div>
-
-<div align="center">
-
-
-</div>
-
----
 
 ### 📫 Contact
 
