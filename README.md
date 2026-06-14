@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=7h34n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DIN%20Reaksa%20•%20Data%20Engineer%20•%20ITC%20Cambodia&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=7h34n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CHHENG%20Sothean%20%20•%20Data%20Engineer%20•%20ITC%20Cambodia&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Real-Time+Data+Pipelines+%F0%9F%9A%80;PySpark+%2B+SQL+Server+%2B+Power+BI;Applied+Mathematics+%40+ITC+Cambodia;Just+a+Chill+Guy+who+codes+%F0%9F%98%8E)](https://git.io/typing-svg)
 
@@ -17,8 +17,8 @@
 ### 👨‍💻 About Me
 
 ```python
-class CHHENG_sothean:
-    name        = "CHHENG_sothean (7h34n)"
+class ChhengSothean:
+    name        = "CHHENG Sothean (7h34n)"
     university  = "Institute of Technology of Cambodia"
     department  = "Applied Mathematics & Statistics"
     year        = "4th Year (2025–2026)"
