@@ -25,13 +25,15 @@ class ChhengSothean:
     
     interests   = [
         "Real-time Data Pipelines",
-        "Distributed Systems",
-        "Machine Learning",
-        "Full-stack Development"
+        "Big Data",
+        "Computer Vision",
+        "Data Visualization",
+        "Machine Learning & Deep Learning",
+        "Full-stack Development",
+        
     ]
     
-    currently   = "Building Cambodia Air Quality Pipeline"
-    fun_fact    = "Just a chill guy 😎"
+    "Just a chill guy "
 ```
 
 <br clear="right"/>
