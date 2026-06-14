@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/github/followers/thean16?style=flat-square&color=58A6FF&label=FOLLOWERS"/>
 
 </div>
-
+<br/><br/>
+<img src="https://raw.githubusercontent.com/thean16/thean16/main/WeChatCat.gif" width="120"/>
 ---
 
 
