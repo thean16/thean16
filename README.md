@@ -99,21 +99,10 @@ class ChhengSothean:
 
 
 
-## 🦕 Dino Game
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="100"/>
-
-<br/>
-
-![dino](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47&rid=giphy.gif&ct=g)
-
-<br/>
-
-[![Play Now](https://img.shields.io/badge/🦕_CLICK_TO_PLAY-58A6FF?style=for-the-badge&labelColor=1a1a2e)](https://thean16.github.io/dino-game)
-
+<img src="https://raw.githubusercontent.com/thean16/thean16/main/WeChatCat.gif" width="200"/>
 </div>
+
 
 
 
