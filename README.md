@@ -10,6 +10,10 @@
 
 </div>
 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/thean16/thean16/main/WeChatCat.gif" width="300"/>
+</div>
 ---
 
 
@@ -99,9 +103,6 @@ class ChhengSothean:
 
 
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/thean16/thean16/main/WeChatCat.gif" width="250"/>
-</div>
 
 
 
