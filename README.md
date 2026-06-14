@@ -103,9 +103,11 @@ class ChhengSothean:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thean16/dino-game/main/dino.gif" width="600"/>
+<a href="https://thean16.github.io/dino-game" target="_blank">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1000&pause=500&color=58A6FF&center=true&vCenter=true&width=400&lines=🦕+Jump!;🌵+Dodge+the+cactus!;⚡+How+far+can+you+go?;👆+Click+to+Play!" alt="Dino Game"/>
+</a>
 
-[![Play Now](https://img.shields.io/badge/🦕_CLICK_TO_PLAY-DINO_GAME-58A6FF?style=for-the-badge&labelColor=1a1a2e)](https://thean16.github.io/dino-game)
+[![Play Now](https://img.shields.io/badge/🦕_PLAY-DINO_GAME-58A6FF?style=for-the-badge&labelColor=1a1a2e)](https://thean16.github.io/dino-game)
 
 </div>
 
