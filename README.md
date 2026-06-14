@@ -12,7 +12,6 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 ### 👨‍💻 About Me
 
@@ -110,14 +109,12 @@ class ChhengSothean:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thean16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thean16&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=thean16&theme=tokyonight&hide_border=true)
 
 </div>
 
