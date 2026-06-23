@@ -17,7 +17,7 @@
 ---
 
 
-### 👨‍💻 About Me
+###  About Me
 
 ```python
 class ChhengSothean:
@@ -44,7 +44,7 @@ class ChhengSothean:
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <table>
 <tr>
@@ -86,20 +86,6 @@ class ChhengSothean:
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/thean16/cambodia-air-quality-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thean16&repo=cambodia-air-quality-pipeline&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/thean16/Clothes-System-Management-Store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thean16&repo=Clothes-System-Management-Store&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
 
 
 
@@ -108,7 +94,8 @@ class ChhengSothean:
 
 
 
-### 📫 Contact
+
+###  Contact
 
 <div align="center">
 
