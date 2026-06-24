@@ -11,9 +11,7 @@
 </div>
 
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/thean16/thean16/main/video-ezgif.com-video-to-gif-converter.gif" width="300"/>
-</div>
+
 ---
 
 
