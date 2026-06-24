@@ -10,7 +10,16 @@
 
 </div>
 
-📄 [Download My Resume](./SotheanCHHENG_resume.pdf)
+## 📄 Resume
+
+I am currently open to internship opportunities in **Data Analysis**, **Data Engineering**, and **Machine Learning**.
+
+<p>
+  <a href="./SotheanCHHENG_resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-Download-blue?style=for-the-badge" alt="View Resume"/>
+  </a>
+</p>
+
 
 ---
 
