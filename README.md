@@ -1,14 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Th34n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CHHENG%20Sothean%20%20•%20Data%20Engineer%20•%20ITC%20Cambodia&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Th34n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CHHENG%20Sothean%20•%20Data%20Science%20Student%20•%20ITC%20Cambodia&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Real-Time+Data+Pipelines+%F0%9F%9A%80;PySpark+%2B+SQL+Server+%2B+Power+BI;Applied+Mathematics+%40+ITC+Cambodia;Just+a+Chill+Guy+who+codes+%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=18\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=750\&lines=Cambodia+Air+Quality+Data+Pipeline+%F0%9F%8C%AB%EF%B8%8F;ABA+Transaction+Analysis+Dashboard+%F0%9F%92%B3;COVID-19+EDA+%26+Machine+Learning+%F0%9F%93%8A;Python+%2B+PySpark+%2B+SQL+Server+%2B+Power+BI;Open+to+Data+Analyst+%2F+Data+Engineer+Internships)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=thean16&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/thean16?style=flat-square&color=58A6FF&label=FOLLOWERS"/>
 
+<br><br>
+
+<a href="./SotheanCHHENG_resume.pdf">
+  <img src="https://img.shields.io/badge/View%20My%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="View Resume"/>
+</a>
+
 </div>
+
 
 ## 📄 Resume
 
