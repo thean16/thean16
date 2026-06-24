@@ -10,9 +10,6 @@
 
 <br><br>
 
-<a href="./SotheanCHHENG_resume.pdf">
-  <img src="https://img.shields.io/badge/View%20My%20Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="View Resume"/>
-</a>
 
 </div>
 
