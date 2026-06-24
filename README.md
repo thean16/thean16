@@ -10,7 +10,7 @@
 
 </div>
 
-
+📄 [Download My Resume](./SotheanCHHENG_resume.pdf)
 
 ---
 
